@@ -11,3 +11,6 @@ indicaciones:
 ► Se asume un trabajo mínimo de 4 horas en la semana, sin importar en que días se desarrolle.
 
 El docente estará atento en su correo (hector.murcia@unimilitar.edu.co) para cualquier requerimiento, aclaración o duda que se presente.
+
+El docente ofrece la atención personalizada a l@s estudiantes que lo requieran para atenderles cualquier ayuda que requieran en el desarrollo de su ensayo,
+para ello pueden solicitar una tutoría en línea a través de Internet en https://calendly.com/profemurcia
